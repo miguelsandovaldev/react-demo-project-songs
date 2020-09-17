@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-demo-project-songs/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-demo-project-songs/static/js/main.ba88f7f0.chunk.js",
+    "main.js.map": "/react-demo-project-songs/static/js/main.ba88f7f0.chunk.js.map",
+    "runtime-main.js": "/react-demo-project-songs/static/js/runtime-main.c66fb7ce.js",
+    "runtime-main.js.map": "/react-demo-project-songs/static/js/runtime-main.c66fb7ce.js.map",
+    "static/js/2.792275c9.chunk.js": "/react-demo-project-songs/static/js/2.792275c9.chunk.js",
+    "static/js/2.792275c9.chunk.js.map": "/react-demo-project-songs/static/js/2.792275c9.chunk.js.map",
+    "index.html": "/react-demo-project-songs/index.html",
+    "precache-manifest.1e2a6d3af890c2a5ba27e5be516ac0b9.js": "/react-demo-project-songs/precache-manifest.1e2a6d3af890c2a5ba27e5be516ac0b9.js",
+    "service-worker.js": "/react-demo-project-songs/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-demo-project-songs/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.792275c9.chunk.js.LICENSE.txt": "/react-demo-project-songs/static/js/2.792275c9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-demo-project-songs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c66fb7ce.js",
+    "static/js/2.792275c9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ba88f7f0.chunk.js"
+  ]
+}
